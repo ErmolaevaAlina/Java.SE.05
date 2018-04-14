@@ -1,0 +1,11 @@
+Directory : se05task1
+->.idea
+--->misc.xml
+--->modules.xml
+--->workspace.xml
+->DirectoryTree_of_se05task1.txt
+->out
+--->production
+->se05task1.iml
+->src
+--->Main.java
